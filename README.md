@@ -1,4 +1,4 @@
-Hi, I am John (although my nickname is Jack). I like to code and will upload here from time to time. 
+Hi, I am Jack (a nickname for John). I like to code and will upload here from time to time. 
 
 <!--
 **j-anton/j-anton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
